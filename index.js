@@ -58,15 +58,15 @@ const videonye = JSON.parse(fs.readFileSync('./temp/video.json'))
 
 //*********** CUSTOMABLE ***********//
 prefix = ''
-setgrup = "6281804680327-1611127287@g.us"
-numbernye = '6281804680327'
-owner = '6281804680327'
+setgrup = "60102810046-1611127287@g.us"
+numbernye = '60102810046'
+owner = '60102810046'
 offline = false
 shape = '⬡'
 waktu = '-'
 alasan = 'Tidur'
 blocked = []
-fake = '</ 𝘚𝘦𝘯𝘬𝘶𝘶⁴̅⁰͍⁴̵〆⁩'
+fake = '</ �aiman⁴̅⁰͍⁴̵〆⁩'
 fakereply = fs.readFileSync(`./media/fakereply.jpeg`)
 fakeimage = fs.readFileSync(`./media/zayy.jpeg`)
 numbernye = '0@s.whatsapp.net'
@@ -75,9 +75,9 @@ public = false
 //*********** VCARD  ***********//
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:zayyシ︎\n'
-            + 'ORG:Owner zayy;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281804680327:+62 831-1800-241\n'
+            + 'FN:aimanシ︎\n'
+            + 'ORG:Owner aiman;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=60102810046:+60 10-281 0046\n'
             + 'END:VCARD'
             
             function parseMention(text) {
@@ -97,9 +97,9 @@ function formatDate(n, locale = 'id') {
 }
 
 //*********** 𝗔𝗣𝗜𝗞𝗘𝗬 ***********//
-const XteamKey = 'Ini Apikey'        //XTEAM
+const XteamKey = '1005ef65a6159cea'        //XTEAM
 const ZeksApi = 'Ini Apikey'                  //ZEKS
-const LolKey = 'Ini Apikey'                 //LOLHUMAN
+const LolKey = '4ef1b11287339c1b10699ece'                 //LOLHUMAN
 	
 	
 //**************************************************\\
@@ -2130,7 +2130,7 @@ if (isGroup && budy != undefined) {
 *               - MHANKBARBAR
 *               - zayyシ
 *               - Vean
-*               - Fajar
+*               - aiman
 *               - All Creator BOT
 * 
 */
