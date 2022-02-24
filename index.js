@@ -246,7 +246,7 @@ itemCount: 10,
  thumbnail: fs.readFileSync('./media/zayy.jpeg'), 
 surface: 200, 
 message: `${fake}\n> : ${command}`, 
-orderTitle: 'zayy', 
+orderTitle: 'aiman', 
 sellerJid: '0@s.whatsapp.net'}
   }
 }
@@ -742,7 +742,7 @@ case 'exec':
 if (!zay.key.fromMe) return reply('*Ente owner?_*')
 const cmyd = body.slice(6)
 var itsme = `0@s.whatsapp.net`
-var split = `*Zay-BotWeA*`
+var split = `*aiman-BotWeA*`
 const term = {
 contextInfo: {
 participant: itsme,
