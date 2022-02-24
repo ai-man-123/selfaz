@@ -133,7 +133,7 @@ const help = (pushname,prefix, publc, onl, groups, private, latensot,totalchatt,
 ├ ${shp} ${p}${prefix}listblock${p}
 └ ${shp} ${p}${prefix}dellrespon [Respon]${p}
 
-❒ *「 Thanks To MhankBarBar 」* ❒ `
+❒ *「 Thanks To Aiman 」* ❒ `
 }
 
 exports.help = help
